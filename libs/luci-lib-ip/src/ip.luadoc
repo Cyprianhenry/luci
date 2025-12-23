@@ -1,4 +1,4 @@
---- LuCI IP calculation and netlink access library.
+mbachucyprian3@gmail.com--- LuCI IP calculation and netlink access library.
 module "luci.ip"
 
 ---[[
